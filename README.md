@@ -14,6 +14,11 @@ The Event Management System provides different levels of access based on user ro
 - Professors: Can create and manage events they're organizing, view events, and view departments.
 - Students: Can browse and register for events, view their registrations, and view some information on professors.
 
+# Relational Model
+This is the relational model of the Event Management System, excluding the logging feature, which incorporates a log table for tracking system activities, although the log table itself is not included in this model.
+
+![image](https://github.com/arcarum/event-management-system/assets/134963929/d97cfd8d-073d-4b15-9136-dffc3d820370)
+
 # Screenshots
 
 Below are some screenshots showcasing the user interface and functionality of the Event Management System while logged in as an admin:
