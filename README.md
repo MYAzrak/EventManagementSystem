@@ -53,3 +53,7 @@ To use the system, follow these steps:
 7) Build and run the system
 
 Note: `FlatLaf-3.4.jar` and `ojdbc7.jar` are required dependencies but are not provided with this repository. You need to obtain them separately and place them in the same directory as the project.
+
+# Collaborators
+
+This project was worked on with the contributions of [Mohammad Yaser Azrak](https://github.com/MohammadYaserAzrak).
