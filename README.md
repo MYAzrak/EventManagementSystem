@@ -29,22 +29,22 @@ The Event Management System provides different levels of access based on user ro
 
 ## Relational Model
 This is the relational model of the Event Management System, excluding the logging feature, which incorporates a log table for tracking system activities, although the log table itself is not included in this model.
-![image](https://github.com/arcarum/event-management-system/assets/134963929/d97cfd8d-073d-4b15-9136-dffc3d820370)
+![1](https://github.com/user-attachments/assets/6fc32499-87d3-4174-86b3-e5665a74a1b4)
 
 ## Demo
 Below are some screenshots showcasing the user interface and functionality of the Event Management System while logged in as an admin:
 
 ## Login Screen:
-![image](https://github.com/arcarum/event-management-system/assets/134963929/3339aa5e-0688-40b8-b16d-1ff7e3ca96af)
+![2](https://github.com/user-attachments/assets/9dc8a21a-6fad-4019-a2c4-bd80fb56d2bd)
 
 ## Main Page:
-![image](https://github.com/arcarum/event-management-system/assets/134963929/a8272fd8-b6ef-4aca-a1b9-a1abd310f1ab)
+![3](https://github.com/user-attachments/assets/cda77f26-4ef2-44a1-856b-2740905165c3)
 
 ## Adding a New Student:
-![image](https://github.com/arcarum/event-management-system/assets/134963929/8adc16b7-ae21-4d6c-ae0b-f04498ae3cd6)
+![4](https://github.com/user-attachments/assets/e571b003-e18b-403f-92be-0bba7b739125)
 
 ## Logs:
-![image](https://github.com/arcarum/event-management-system/assets/134963929/0645fe5d-51a5-4f66-be5a-fc685fb059d2)
+![5](https://github.com/user-attachments/assets/710e444d-7217-482e-addb-02d6d993a0ab)
 
 ## Collaborators
 This project was worked on with the contributions of [arcarum](https://github.com/arcarum).
